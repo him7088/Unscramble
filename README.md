@@ -1,21 +1,22 @@
-Unscramble app
+*****Unscramble app****
+The Unscramble App is a fun and challenging word game where users can test their vocabulary skills by unscrambling jumbled words. Built using Kotlin and Jetpack Compose, this Android app provides an engaging user interface and rewards players for correct guesses.
 =================================
+***Features***:
 
-Single player game app that displays scrambled words. To play the game, player has to make a
-word using all the letters in the displayed scrambled word.
-This code demonstrates the Android Architecture component- ViewModel and StateFlow.
+1.Word Unscrambling:
+Users are presented with scrambled words.
+Their task is to rearrange the letters to form valid English words.
+
+2.Scoring System:
+For each correct unscrambled word, users earn points.
+Keep track of the score and challenge friends to beat it!
+
+3.Word Database:
+The app includes a diverse word database with over 100 words.
+Words are randomly selected for each round, ensuring variety.
+
+4.Sleek UI with Jetpack Compose:
+Jetpack Compose components create a modern and responsive user interface.
+Enjoy smooth animations and transitions.
 
 
-Pre-requisites
---------------
-* Experience with Kotlin syntax.
-* How to create and run a project in Android Studio.
-* How to create composable functions 
-
-
-Getting Started
----------------
-1. Install Android Studio, if you don't already have it.
-2. Download the sample.
-3. Import the sample into Android Studio.
-4. Build and run the sample.
